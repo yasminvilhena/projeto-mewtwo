@@ -23,7 +23,7 @@
 }
 
 body {
-  background-image: url("/discofundo.jpg");
+  background-image: url("discofundo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
